@@ -1,3 +1,3 @@
-# Ruby on Rails Project 1: dog_ears
+# Ruby on Rails Project 2: dog_ears
 
 Steve Clemons
